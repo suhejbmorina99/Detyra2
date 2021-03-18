@@ -1,0 +1,146 @@
+#krysori{
+    margin: 250px;
+}
+.box1{
+    width: 150px;
+    height: 150px;
+    border: 1px solid black;
+    background-color: rgb(189, 113, 22);
+    margin: 10px;
+    display: inline-block;
+   
+}
+.box2{
+    width: 150px;
+    height: 150px;
+    border: 1px solid black;
+    background-color: rgb(33, 140, 255);
+    margin: 10px;
+    display: inline-block;
+    
+}
+.box3{
+    width: 150px;
+    height: 150px;
+    border: 1px solid black;
+    background-color: rgb(75, 51, 234);
+    margin: 10px;
+    display: inline-block;
+    
+}
+.box4{
+    width: 150px;
+    height: 150px;
+    border: 1px solid black;
+    background-color: rgb(225, 225, 20);
+    margin: 10px;
+    display: inline-block;
+    
+}
+.box5{
+    width: 150px;
+    height: 150px;
+    border: 1px solid black;
+    background-color:  rgb(5, 82, 142);
+    margin: 10px;
+    display: inline-block;
+    
+}
+.box6{
+    width: 150px;
+    height: 150px;
+    border: 1px solid black;
+    background-color: rgb(14, 109, 205);
+    margin: 10px;
+    display: inline-block;
+    
+}
+.box7{
+    width: 150px;
+    height: 150px;
+    border: 1px solid black;
+    background-color: rgb(237, 112, 67);
+    margin: 10px;
+    display: inline-block;
+   
+}
+
+.box8{
+    width: 150px;
+    height: 150px;
+    border: 1px solid black;
+    background-color: rgb(230, 230, 11);
+    margin: 10px;
+    display: inline-block;
+}
+
+.box9{
+    width: 150px;
+    height: 150px;
+    border: 1px solid black;
+    background-color:rgb(3, 109, 106);
+    margin: 10px;
+    display: inline-block;
+}
+
+
+
+.box1, a{
+    text-align: center;
+    color: white;
+    font-size: 20px;
+    
+    
+}
+
+.box2, a{
+    text-align: center;
+    color: white;
+    font-size: 20px;
+
+}
+.box3, a{
+    text-align: center;
+    color: white;
+    font-size: 20px;
+
+}
+.box4, a{
+    text-align: center;
+    color: white;
+    font-size: 20px;
+
+}
+.box5, a{
+    text-align: center;
+    color: white;
+    font-size: 20px;
+
+}
+.box6, a{
+    text-align: center;
+    color: white;
+    font-size: 20px;
+
+}
+.box7, a{
+    text-align: center;
+    color: white;
+    font-size: 20px;
+
+}
+.box8, a{
+    text-align: center;
+    color: white;
+    font-size: 20px;
+}
+.box9, a{
+    text-align: center;
+    color: white;
+    font-size: 20px;
+}
+.logo{
+    height: 50px;
+    display: block;
+    margin-bottom: 50px;
+}
