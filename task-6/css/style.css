@@ -1,0 +1,57 @@
+body {
+  margin: 0px;
+  padding: 0px;
+}
+
+.left{
+    width:200px;
+    height: 100%;
+    
+}
+.right{
+    width:200px;
+    height: 100%;
+    
+    float: right;
+}
+.box {
+  width: 200px;
+  text-align: center;
+  line-height: 200px;
+  font-weight: bold;
+  font-size: 30px;
+}
+.green {
+  background-color: green;
+  float: right;
+  position: absolute;
+  bottom: 0px;
+  
+}
+.red {
+  background-color: red;
+  position: absolute;
+  bottom: 0px;
+  
+}
+.orange {
+  background-color: orange;
+  float: right;
+ 
+}
+.blue {
+  background-color: blue;
+  
+}
+.teksti{
+    
+    width: 800px;
+    position: absolute;
+    margin-left: 350px;
+    
+    margin-top: 50px;
+
+}
+span{
+    font-size: 37px;
+}
