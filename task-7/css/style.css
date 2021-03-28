@@ -1,0 +1,82 @@
+
+.menucontainer{
+    background-color: black;
+    display: flex;
+    padding: 15px;
+    width: 1460px;
+
+}
+.menu{
+    width: 1460px;
+ 
+  
+}
+ul{
+    float: right;
+    display: flex;     
+    justify-content: space-evenly;
+    line-height: 50px;
+    width: 550px;
+    
+}
+.menu a{
+    text-decoration: none;   
+    color: white;
+    
+}
+.container{
+    width: 1490px;
+    height: 450px;
+    background-color: rgb(212, 206, 206);
+  
+}
+.textcon{
+    padding: 150px 250px;
+}
+.btn{
+    padding: 5px;
+    width: 140px;
+    color: white;
+    border: none;
+}
+.red {
+    background-color: red;
+}
+.green {
+    background-color: green;
+    margin-left: 10px;
+}
+.section {
+    width: 1500px;
+    display: flex;
+    flex-wrap: wrap;
+}
+.box1{
+    border: 0.5px solid rgb(168, 168, 168);    
+    width: 462px;
+    margin: 18px;
+    
+}
+.box1 a{
+    color: blue;
+
+}
+.box1 img{
+    width: 462px;
+}
+.box1 span{
+    float: right;
+}
+.fundi{
+    width: 1450px;
+    height: 80px;
+    padding: 20px;
+}
+.fundileft{
+    width: 1000px;
+}
+.fundilinku{
+    margin-top: -25px;
+    width: 100px;
+    float: right;
+}
