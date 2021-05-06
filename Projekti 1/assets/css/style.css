@@ -23,6 +23,7 @@ body{
       /* border: 1px solid black; */
     height: 100px;
     width: 250px;
+
 }
 .logo img{
     padding: 18px 10px
@@ -32,6 +33,9 @@ body{
     height: 100px;
     width: 700px;
     font-family: "Poppins", sans-serif;
+    position: sticky;
+    top: 0;
+    
 }
 .menu ul{
     display: flex;
@@ -48,12 +52,14 @@ body{
     font-size: 16px;
     font-weight: 700;
     line-height: 30px;
+
    
 }
 .dwnbtn{
       /* border: 1px solid black; */
     height: 100px;
     width: 250px;
+    
 }
 .button {
     border: none;
